@@ -13,7 +13,10 @@ Quero criar tecnologias que ajudem as pessoas: sistemas que salvem vidas, que pr
 - **Space Technology**: fundei e fui CEO de uma empresa de suporte, manutenção, criação de sites e aplicativos.
 - **Força Aérea Brasileira**: hoje cuido do suporte e manutenção de TI na Base Aérea de Canoas. Lá desenvolvi sistemas que resolveram panes antigas, problemas que se arrastavam havia anos, e tornaram o serviço muito mais rápido e eficaz para os usuários e para o operacional.
 
-Tenho atuação sênior em suporte, manutenção e design, e cerca de três anos programando de forma profissional. Para mim, uma interface bem pensada é metade do sistema.
+**Onde estou em cada área:**
+- **Suporte, manutenção e help desk:** sênior, com mais de dez anos de experiência.
+- **Design e UI:** pleno, de identidade visual a interfaces de sistemas. Para mim, uma interface bem pensada é metade do sistema.
+- **Desenvolvimento full stack:** júnior em evolução constante, com sistemas reais em uso e cerca de três anos programando de forma profissional.
 
 ## 🔧 Projetos em destaque
 
