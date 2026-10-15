@@ -1,23 +1,30 @@
 # Olá, eu sou o Ivan 👋
 
-Desenvolvedor Full Stack e designer, estudante de Engenharia da Computação (na reta final) e encarregado do suporte e manutenção de TI na Base Aérea de Canoas, da Força Aérea Brasileira.
+Desenvolvedor Full Stack e designer, estudante de Engenharia da Computação (na reta final) e militar da Força Aérea Brasileira, onde sou encarregado do suporte e manutenção de TI na Base Aérea de Canoas.
 
-Comecei cedo, com uns 16 anos, construindo sites em HTML5, e nunca mais parei. Hoje são cerca de três anos programando de forma profissional, sempre com um pé no design: para mim, uma interface bem pensada é metade do sistema.
+## 🌎 Tecnologia a serviço da humanidade
+
+Quero criar tecnologias que ajudem as pessoas: sistemas que salvem vidas, que protejam e defendam quem precisa e que levem a pesquisa espacial mais longe. Tenho muitas ideias nessa direção, e cada projeto que publico aqui é um passo nesse caminho.
+
+## 🧭 Minha trajetória
+
+- **Aos 12 anos** comecei dentro de casa, fazendo manutenção de computadores. Foi ali que a informática virou parte da minha vida.
+- **Aos 16** passei a construir sites em HTML5 e trabalhei como desenvolvedor web.
+- **Space Technology**: fundei e fui CEO de uma empresa de suporte, manutenção, criação de sites e aplicativos.
+- **Força Aérea Brasileira**: hoje cuido do suporte e manutenção de TI na Base Aérea de Canoas e desenvolvo sistemas que facilitam o dia a dia da Base.
+
+Tenho atuação sênior em suporte, manutenção e design, e cerca de três anos programando de forma profissional. Para mim, uma interface bem pensada é metade do sistema.
 
 ## 🔧 Projetos em destaque
 
-**Laçador**
+### Laçador
 Instala, repara e confere os tokens de assinatura digital e todos os programas que os sistemas exigem. É um único executável, com versão portátil e instalada, e funciona até para quem não é administrador da máquina.
 
-**Pegasus Analyzer**
+### Pegasus Analyzer
 Diagnóstico completo de computadores no estilo AIDA64: hardware, sensores em tempo real, alertas de saúde (como "temperatura alta, verificar a pasta térmica"), área de testes e relatório pronto para o suporte. Roda 100% offline, num .exe portátil.
 
-**Extrator**
+### Extrator
 Extensão para Firefox usada na triagem da Base Aérea. Lê CNH, RG e CRLV pela webcam, inclusive na tela do celular, e preenche sozinha o cadastro de visitantes e veículos. O que levava uns 5 minutos por pessoa agora leva menos de um minuto.
-
-## 🚀 Onde quero chegar
-
-Meu objetivo é a engenharia de sistemas embarcados no setor aeroespacial: aeronaves, satélites e inteligência artificial embarcada. Sistemas inteligentes rodando em hardware que voa.
 
 ## 🛠️ Tecnologias
 
@@ -30,3 +37,15 @@ Meu objetivo é a engenharia de sistemas embarcados no setor aeroespacial: aeron
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+| Área | Tecnologias | Onde eu uso |
+|---|---|---|
+| Web e interfaces | HTML5, CSS3, JavaScript | Sites, a interface do Laçador e a extensão Extrator |
+| Aplicações desktop | C#, .NET e Avalonia | Pegasus Analyzer |
+| Sistemas e automação | PowerShell e C | Motor e instalador do Laçador, lançador nativo do .exe |
+| Scripts | Python | Automação de tarefas e ferramentas de apoio |
+| Design | Identidade visual e UI | Logos, telas de abertura e interfaces dos meus sistemas |
+
+## 🚀 Onde quero chegar
+
+Meu objetivo é a engenharia de sistemas embarcados no setor aeroespacial: aeronaves, satélites e inteligência artificial embarcada. Sistemas inteligentes rodando em hardware que voa, a serviço das pessoas.
