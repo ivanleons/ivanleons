@@ -19,13 +19,13 @@ Tenho atuação sênior em suporte, manutenção e design, e cerca de três anos
 
 Sistemas que criei para resolver problemas reais e antigos da Base, e que hoje deixam o trabalho mais ágil e confiável para quem está na ponta.
 
-### Laçador
+### [Laçador](https://github.com/ivanleons/lacador)
 Instala, repara e confere os tokens de assinatura digital e todos os programas que os sistemas exigem. É um único executável, com versão portátil e instalada, e funciona até para quem não é administrador da máquina.
 
-### Pegasus Analyzer
+### [Pegasus Analyzer](https://github.com/ivanleons/pegasus-analyzer)
 Diagnóstico completo de computadores no estilo AIDA64: hardware, sensores em tempo real, alertas de saúde (como "temperatura alta, verificar a pasta térmica"), área de testes e relatório pronto para o suporte. Roda 100% offline, num .exe portátil.
 
-### Extrator
+### [Extrator](https://github.com/ivanleons/extrator)
 Extensão para Firefox usada na triagem da Base Aérea. Lê CNH, RG e CRLV pela webcam, inclusive na tela do celular, e preenche sozinha o cadastro de visitantes e veículos. O que levava uns 5 minutos por pessoa agora leva menos de um minuto.
 
 ## 🛠️ Tecnologias
