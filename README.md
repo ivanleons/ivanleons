@@ -11,11 +11,13 @@ Quero criar tecnologias que ajudem as pessoas: sistemas que salvem vidas, que pr
 - **Aos 12 anos** comecei dentro de casa, fazendo manutenção de computadores. Foi ali que a informática virou parte da minha vida.
 - **Aos 16** passei a construir sites em HTML5 e trabalhei como desenvolvedor web.
 - **Space Technology**: fundei e fui CEO de uma empresa de suporte, manutenção, criação de sites e aplicativos.
-- **Força Aérea Brasileira**: hoje cuido do suporte e manutenção de TI na Base Aérea de Canoas e desenvolvo sistemas que facilitam o dia a dia da Base.
+- **Força Aérea Brasileira**: hoje cuido do suporte e manutenção de TI na Base Aérea de Canoas. Lá desenvolvi sistemas que resolveram panes antigas, problemas que se arrastavam havia anos, e tornaram o serviço muito mais rápido e eficaz para os usuários e para o operacional.
 
 Tenho atuação sênior em suporte, manutenção e design, e cerca de três anos programando de forma profissional. Para mim, uma interface bem pensada é metade do sistema.
 
 ## 🔧 Projetos em destaque
+
+Sistemas que criei para resolver problemas reais e antigos da Base, e que hoje deixam o trabalho mais ágil e confiável para quem está na ponta.
 
 ### Laçador
 Instala, repara e confere os tokens de assinatura digital e todos os programas que os sistemas exigem. É um único executável, com versão portátil e instalada, e funciona até para quem não é administrador da máquina.
